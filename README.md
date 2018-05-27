@@ -1,0 +1,1 @@
+# ⛔️ [DEPRECATED] n-fetch-translate
